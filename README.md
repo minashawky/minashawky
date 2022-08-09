@@ -12,7 +12,7 @@ My Hub is new! My Public Repos are mainly learning material and stuff that I'll 
 
 - 🔭 I’m currently working on a secret startup project that I'm building from scratch. It will revolutionize the fitness industry... "BIG words" used here as this is how startups operate
 - 💬 Ask me about Software Engineering, Project Management, Customer Success, Agile Scale Up, SaaS Growth
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/minashawky/), [Twitch](https://www.twitch.tv/gameranddad), or [Twitter](https://twitter.com/minashawky)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/minashawky/), or [Twitter](https://twitter.com/minashawky)
 
 
 <!--
